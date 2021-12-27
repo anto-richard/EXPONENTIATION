@@ -1,11 +1,11 @@
-# Find the exponentiation of a number
+# Find the exponentiation of a number...
 
 ## AIM:
 To write a program to find the exponentiation of a number.
 
 ## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+1. Hardware – PCs.
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner.
 
 ## Algorithm
 1. Get the input from the user.
@@ -13,15 +13,18 @@ To write a program to find the exponentiation of a number.
 
 ## Program:
 ```
-/*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
-*/
+#Program to to find the Exponentiation of a number.
+#Developed by: Anto Richard. S
+#RegisterNumber: 21001221
+x=int(input())
+def exp():
+    exp=x**2
+    return exp
+print("Exponentiation of a given number:",exp())
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](expo1.png)
 
 
 ## Result:
